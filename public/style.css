@@ -1,0 +1,82 @@
+.regbtn{
+    border: #727272 0px solid;
+    color:#e93d77;
+    border-radius: 50px;
+    font-weight: 700;
+    padding: 3px;
+    background-color: #bdb7c7;
+    transition:0.3s;
+    -webkit-transition:0.3s;
+    -moz-transition:0.3s;
+    -ms-transition:0.3s;
+    -o-transition:0.3s;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+  .regbtn:hover{
+    background-color: #e93d77;
+    color: white;
+    font-size: 18px;
+    transition:0.3s;
+    -webkit-transition:0.3s;
+    -moz-transition:0.3s;
+    -ms-transition:0.3s;
+    -o-transition:0.3s;
+}
+
+ul li {
+    padding:5px;
+}
+
+/* single product page */
+
+  /* Gig layout... */
+  .image{
+    border-radius: 500px;
+    border: #290c5c 3px solid;
+    }
+    .back-btn{
+        position: fixed;
+        margin-left: 10px;
+        margin-top: 10px;
+        font-size:16px;
+        border: black 1px solid;
+        padding: 15px ;
+        border-radius: 300px;
+    }
+    .back-btn:hover{
+        background: gray;
+    }
+    .tags{
+        border: black 1px solid; border-radius:300px; 
+        background-color:black; font-size: 14px; margin-right: 5px; 
+    }
+    
+
+    .tags a{
+        color:white;
+    }
+
+    .confirmbtn{
+        border: #e93d77 2px solid;
+        color:#e93d77;
+        width: fit-content;
+        padding: 3px;
+        background-color: white;
+        transition:0.3s;
+        -webkit-transition:0.3s;
+        -moz-transition:0.3s;
+        -ms-transition:0.3s;
+        -o-transition:0.3s;
+      }
+      .confirmbtn:hover{
+        background-color: #e93d77;
+        color:white;
+        transition:0.3s;
+        -webkit-transition:0.3s;
+        -moz-transition:0.3s;
+        -ms-transition:0.3s;
+        -o-transition:0.3s;
+    }
